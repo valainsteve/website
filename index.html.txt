@@ -110,7 +110,7 @@
 
                <div class="columns download">
                   <p>
-                     <a href="lebenslauf.pdf" class="button"><i class="fa fa-download"></i>Lebenslauf</a>
+                     <a href="lebenslauf.pdf" class="button"><i class="fa fa-download"></i>lebenslauf</a>
                   </p>
                </div>
             </div> <!-- end row -->
