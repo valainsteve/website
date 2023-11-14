@@ -5,7 +5,10 @@
 			"path": "C:\\Software_Project\\Web_Project\\steve-web",
 		},
 		{
-			"path": "C:\\Software_Project\\Web_Project"
+			"path": "C:\\Software_Project\\Web_Project",
+		},
+		{
+			"path": "C:\\Software_Project\\Web_Project\\steve-web\\js"
 		},
 	],
 }
