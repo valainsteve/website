@@ -8,15 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "modules.xml",
-			"settings":
-			{
-				"buffer_size": 270,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "steve-web.iml",
 			"settings":
 			{
@@ -379,7 +370,7 @@
 			"file": "/C/Software_Project/Web_Project/steve-web/index.html.txt",
 			"settings":
 			{
-				"buffer_size": 19450,
+				"buffer_size": 19449,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
@@ -458,6 +449,42 @@
 					},
 					"AQAAAGMMAAAAAAAAZAwAAAAAAAAAAAAA",
 					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGMMAAAAAAAAYwwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					7,
+					"left_delete",
+					null,
+					"BwAAABQIAAAAAAAAFAgAAAAAAAABAAAALhMIAAAAAAAAEwgAAAAAAAABAAAAdRIIAAAAAAAAEggAAAAAAAABAAAAbxEIAAAAAAAAEQgAAAAAAAABAAAAdBAIAAAAAAAAEAgAAAAAAAABAAAAbg8IAAAAAAAADwgAAAAAAAABAAAAYQ4IAAAAAAAADggAAAAAAAABAAAASg",
+					"AQAAAAAAAAABAAAAFQgAAAAAAAAVCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "Tchana"
+					},
+					"BgAAAA4IAAAAAAAADwgAAAAAAAAAAAAADwgAAAAAAAAQCAAAAAAAAAAAAAAQCAAAAAAAABEIAAAAAAAAAAAAABEIAAAAAAAAEggAAAAAAAAAAAAAEggAAAAAAAATCAAAAAAAAAAAAAATCAAAAAAAABQIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADggAAAAAAAAOCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAADAQAAAAAAAAMBAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAMRAAAAAAAAAxEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "L"
+					},
+					"AQAAADAQAAAAAAAAMRAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMBAAAAAAAAAwEAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -492,8 +519,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Software_Project/Web_Project/steve-web",
+		"/C/Software_Project/Web_Project",
+		"/C/Software_Project/Web_Project/steve-web"
+	],
 	"file_history":
 	[
+		"/C/Software_Project/Web_Project/steve-web/.idea/modules.xml",
 		"/C/Software_Project/Web_Project/steve-web/.idea/a",
 		"/C/Software_Project/Web_Project/steve-web/.idea/hdfhdhdfg",
 		"/C/Users/Steve/AppData/Local/Temp/Rar$DIa0.798/changelog.txt",
@@ -540,7 +574,6 @@
 		"/C/Users/Steve/Desktop/DBS/.idea/modules.xml",
 		"/C/Users/Steve/Desktop/DBS/.idea/workspace.xml",
 		"/C/Software_Project/Web_Project/steve-web/index.html",
-		"/C/Software_Project/Web_Project/steve-web/.idea/modules.xml",
 		"/C/Users/Steve/Desktop/Projekt/Assignment2/database.xml",
 		"/C/Users/Steve/Desktop/WEB SITE/steve-web/test2.html",
 		"/C/Users/Steve/Desktop/WEB SITE/steve-web/test.html",
@@ -588,37 +621,6 @@
 			[
 				{
 					"buffer": 0,
-					"file": "modules.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 270,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "steve-web.iml",
 					"semi_transient": false,
 					"settings":
@@ -644,14 +646,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "workspace.xml",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -662,8 +663,8 @@
 						"selection":
 						[
 							[
-								1677,
-								1677
+								1927,
+								1927
 							]
 						],
 						"settings":
@@ -676,12 +677,12 @@
 						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "index.html.txt",
 					"semi_transient": false,
 					"settings":
@@ -693,8 +694,8 @@
 						"selection":
 						[
 							[
-								1141,
-								1141
+								1140,
+								1140
 							]
 						],
 						"settings":
@@ -707,25 +708,26 @@
 						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "/C/Software_Project/Web_Project/steve-web/index.html.txt",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19450,
+						"buffer_size": 19449,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4418,
-								4418
+								6856,
+								6856
 							]
 						],
 						"settings":
@@ -735,10 +737,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8196.0,
+						"translation.y": 2646.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				}
