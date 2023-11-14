@@ -55,7 +55,7 @@
 
       <div class="row banner">
          <div class="banner-text">
-            <h1 class="responsive-headline">Ich bin Steve Jantou.</h1>
+            <h1 class="responsive-headline">Ich bin Steve Tchana</h1>
             <h3>Ich bin Student der Wirtschaftsinformatik und begeistere mich für neue Technologien und Programmierung.
                 Beginnen Sie zu scrollen und erfahren Sie mehr <a class="smoothscroll" href="#about">über mich</a>.
             </h3>
