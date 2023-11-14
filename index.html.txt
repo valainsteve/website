@@ -7,7 +7,7 @@
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Steve Jantou</title>
+	<title>Steve Tchana</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -87,7 +87,7 @@
 
             <h2>Über mich</h2>
 
-            <p>Ich bin im Moment ein Bachelor Student im Bereich Wirtschaftinformatik. Ich habe gute deutsche Kenntnissen, Grundkenntnisse in Englisch und Französisch als Muttersprache.
+            <p>Ich bin im Moment ein Bachelor Student im Bereich Wirtschaftinformatik. Ich habe meine Bachelorarbeit bereits abgelegt. Ich habe gute deutsche Kenntnissen, Grundkenntnisse in Englisch und Französisch als Muttersprache.
                 Kommunikation und Teamfähig sind meine stärken. Ich kann gut mit Stress umgehen un bin kritikfähig. Ich bin bereit neues zu lernen
                 und bin zuverlassig mit der Arbeit.
             </p>
