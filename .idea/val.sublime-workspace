@@ -8,21 +8,61 @@
 	"buffers":
 	[
 		{
+			"contents": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectModuleManager\">\n    <modules>\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/Francine-web.iml\" filepath=\"$PROJECT_DIR$/.idea/Francine-web.iml\" />\n    </modules>\n  </component>\n</project>",
 			"file": "modules.xml",
+			"file_size": 277,
+			"file_write_time": 133444668988910776,
 			"settings":
 			{
-				"buffer_size": 270,
-				"encoding": "UTF-8",
+				"buffer_size": 276,
 				"line_ending": "Windows"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					5,
+					"left_delete",
+					null,
+					"BQAAAKsAAAAAAAAAqwAAAAAAAAABAAAAZaoAAAAAAAAAqgAAAAAAAAABAAAAdqkAAAAAAAAAqQAAAAAAAAABAAAAZagAAAAAAAAAqAAAAAAAAAABAAAAdKcAAAAAAAAApwAAAAAAAAABAAAAcw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACsAAAAAAAAAKwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "Francine"
+					},
+					"CAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAAqwAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAAK0AAAAAAAAAAAAAAK0AAAAAAAAArgAAAAAAAAAAAAAArgAAAAAAAACvAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnAAAAAAAAAKcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					5,
+					"left_delete",
+					null,
+					"BQAAANsAAAAAAAAA2wAAAAAAAAABAAAAZdoAAAAAAAAA2gAAAAAAAAABAAAAdtkAAAAAAAAA2QAAAAAAAAABAAAAZdgAAAAAAAAA2AAAAAAAAAABAAAAdNcAAAAAAAAA1wAAAAAAAAABAAAAcw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcAAAAAAAAANwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "Francine"
+					},
+					"CAAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAADZAAAAAAAAANoAAAAAAAAAAAAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXAAAAAAAAANcAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
 		},
 		{
-			"file": "steve-web.iml",
+			"file": "/C/Users/Steve/Desktop/Tchana/Sit/Website-Francine/.idea/Francine-web.iml",
 			"settings":
 			{
 				"buffer_size": 458,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -32,7 +72,10 @@
 				"buffer_size": 1953,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		}
 	],
 	"build_system": "",
@@ -67,6 +110,8 @@
 	},
 	"file_history":
 	[
+		"/C/Software_Project/Web_Project/steve-web/.idea/steve-web.iml",
+		"/C/Users/Steve/Desktop/Tchana/Sit/Website-Francine/.idea/steve-web.iml",
 		"/C/Users/Steve/Desktop/Tchana/MainApp.java.txt",
 		"/C/Program Files/Sublime Text/changelog.txt",
 		"/C/Users/Steve/Desktop/Neuer Ordner/Aufgabe04/Aufgabe04.iml",
@@ -110,7 +155,6 @@
 		"/C/Software_Project/Web_Project/steve-web/.idea/index.html",
 		"/C/Users/Steve/Documents/style.css",
 		"/C/Software_Project/Web_Project/steve-web/.idea/workspace.xml",
-		"/C/Software_Project/Web_Project/steve-web/.idea/steve-web.iml",
 		"/C/Users/Steve/Desktop/DBS/.idea/libraries/gradle_wrapper1.xml",
 		"/C/Users/Steve/Desktop/DBS/.idea/libraries/gradle_wrapper.xml",
 		"/C/Users/Steve/Desktop/DBS/.idea/misc.xml",
@@ -169,15 +213,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 270,
+						"buffer_size": 276,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								270,
-								270
+								223,
+								223
 							]
 						],
 						"settings":
@@ -196,7 +240,7 @@
 				},
 				{
 					"buffer": 1,
-					"file": "steve-web.iml",
+					"file": "/C/Users/Steve/Desktop/Tchana/Sit/Website-Francine/.idea/Francine-web.iml",
 					"semi_transient": false,
 					"settings":
 					{
@@ -207,8 +251,8 @@
 						"selection":
 						[
 							[
-								323,
-								323
+								0,
+								0
 							]
 						],
 						"settings":
@@ -239,8 +283,8 @@
 						"selection":
 						[
 							[
-								419,
-								419
+								538,
+								538
 							]
 						],
 						"settings":
@@ -250,7 +294,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 577.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
